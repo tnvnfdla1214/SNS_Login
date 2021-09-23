@@ -29,7 +29,8 @@ auth를 사용하는 순서에 대해 설명하겠습니다.
 + [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) 
   + 구글 로그인/회원가입
   + 카카오 로그인 회원가입
-
++ [깃 허브 리파지토리](https://github.com/tnvnfdla1214/github_repository)
+  + 깃 허브 로그인
 ***
 
 ### :lollipop: 설명 (조치원 수호대 구글 로그인 기능 설명)
